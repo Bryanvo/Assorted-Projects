@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\hw$\main.cpp(153): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\hw$\main.cpp(160): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\hw$\main.cpp(169): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\hw$\main.cpp(174): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\hw$\main.cpp(184): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\hw$\main.cpp(189): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  WindowsProject.vcxproj -> C:\HW$\Debug\WindowsProject.exe

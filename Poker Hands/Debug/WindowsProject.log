@@ -1,0 +1,18 @@
+﻿  Cards.cpp
+c:\hw05submit\itpvector.hpp(135): warning C4018: '<': signed/unsigned mismatch
+  c:\hw05submit\itpvector.hpp(111): note: while compiling class template member function 'void ITPVector<Card>::insert_back(const T &)'
+          with
+          [
+              T=Card
+          ]
+  c:\hw05submit\cards.cpp(26): note: see reference to function template instantiation 'void ITPVector<Card>::insert_back(const T &)' being compiled
+          with
+          [
+              T=Card
+          ]
+  c:\hw05submit\cards.h(125): note: see reference to class template instantiation 'ITPVector<Card>' being compiled
+  Generating Code...
+c:\hw05submit\itpvector.hpp(168): warning C4715: 'ITPVector<Card>::get_back': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  main.cpp
+  WindowsProject.vcxproj -> C:\HW05Submit\Debug\WindowsProject.exe
